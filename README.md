@@ -4,10 +4,10 @@ Repositório criado para realização de atividades práticas desta disciplina.
 
 ## Código fonte das aulas
 
-- Ionic Framework [clique aqui](src/01_ionic)
-- React Native [clique aqui](src/02_react_native)
-- Flutter [clique aqui](src/03_flutter)
-- Kotlin [clique aqui](src/04_kotlin)
+- Ionic Framework [clique aqui](src/ionic)
+- React Native [clique aqui](src/reactnative)
+- Flutter [clique aqui](src/flutter)
+- Kotlin [clique aqui](src/kotlin)
 
 ## Lista de atividades práticas
 
